@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "500689361453",
+    "project_id": "practicaexamen-2229b",
+    "storage_bucket": "practicaexamen-2229b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500689361453:android:f09aac00f2313addbf36a4",
+        "android_client_info": {
+          "package_name": "com.malvarado06766.practicaexamenv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500689361453-srk5vbbcn0ibm00ka0m15tup10mtm37e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.malvarado06766.practicaexamenv",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "500689361453-j25k41m9dpsiuk3djbp3kb4ucta0d7nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMEg91qO4ftcoKJ-T5X8jprq0yF_ZazWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500689361453-j25k41m9dpsiuk3djbp3kb4ucta0d7nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "500689361453-f1n8kcfvfq7cdccatgv1c0pb273bkflb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.malvarado06766.practicaexamenv"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
